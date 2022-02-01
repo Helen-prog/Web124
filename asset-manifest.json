@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Web124/static/css/main.b2992be6.css",
+    "main.js": "/Web124/static/js/main.9b66d747.js",
+    "index.html": "/Web124/index.html",
+    "main.b2992be6.css.map": "/Web124/static/css/main.b2992be6.css.map",
+    "main.9b66d747.js.map": "/Web124/static/js/main.9b66d747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2992be6.css",
+    "static/js/main.9b66d747.js"
+  ]
+}
