@@ -1,8 +1,7 @@
 import React from "react";
 import './Search.css';
 
-class Search extends React.Component{
-    
+class Search extends React.Component{    
     state = {
         search: "",
         type: "all"

@@ -4,8 +4,7 @@ import MovieList from "../components/MovieList";
 import Preloader from "../components/Preloader";
 import Search from "../components/Search";
 
-class Main extends React.Component {
-    
+class Main extends React.Component {    
     state = {
         movies: [],
         loading: true
